@@ -26,7 +26,7 @@ Steps
 - `exploratory_analysis.sql`: Runs EDA queries for insights.
 - `rfm_segmentation.sql`: Performs RFM segmentation.
 
-## Note: Insert the Data (Bulk Insertion) from the CSV file by using online tools.
+### Note: Insert the Data (Bulk Insertion) from the CSV file by using online tools.
 
 
 #Description of process
