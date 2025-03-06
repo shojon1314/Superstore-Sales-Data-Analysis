@@ -17,8 +17,8 @@ This project analyzes the Superstore Sales Dataset using SQL for data cleaning, 
 - SQL
 
 ## Files
- 
--`create_tables.sql`: Creates the database and tables.
--`data_cleaning.sql`: Cleans and formats the data.
--`exploratory_analysis.sql`: Runs EDA queries for insights.
--`rfm_segmentation.sql`: Performs RFM segmentation.
+ -  `SuperstoreSalesData.csv`: The raw sales data file
+- `create_tables.sql`: Creates the database and tables.
+- `data_cleaning.sql`: Cleans and formats the data.
+- `exploratory_analysis.sql`: Runs EDA queries for insights.
+- `rfm_segmentation.sql`: Performs RFM segmentation.
