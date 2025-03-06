@@ -7,10 +7,13 @@ This project analyzes the Superstore Sales Dataset using SQL for data cleaning, 
 
 
 ## Methodology:
-1. Data Preparation
-2. Data Cleaning Issues
-3. Exploratory Data Analysis (EDA)
-4. Customer Segmentation Using RFM
+Steps
+1. **Database Creation**: Created a MySQL database and table to store the sales data.
+2. **Data Insertion**: Inserted the provided CSV data into the MySQL table.
+3. **Data Cleaning**: Cleaned the data by handling missing values and updating the schema if necessary.
+4. **Exploratory Data Analysis**: Performed various SQL queries to analyze sales, profit, and customer segments.
+5. **RFM Segmentation**: Segmented customers based on Recency, Frequency, and Monetary value.
+
 
 ## Tools and Technologies
 - MySQL
@@ -22,3 +25,32 @@ This project analyzes the Superstore Sales Dataset using SQL for data cleaning, 
 - `data_cleaning.sql`: Cleans and formats the data.
 - `exploratory_analysis.sql`: Runs EDA queries for insights.
 - `rfm_segmentation.sql`: Performs RFM segmentation.
+
+## Note: Insert the Data (Bulk Insertion) from the CSV file by using online tools.
+
+
+#Description of process
+
+Data Cleaning
+   •	Fixed date format issues
+   •	Removed duplicates
+   •	Standardized text fields
+   •	Handled NULL values
+Exploratory Data Analysis (EDA)
+   •	Sales trends over time
+   •	Top-selling products & categories
+   •	Customer behavior & segmentation
+   •	Shipping & delivery trends
+RFM Segmentation
+   •	Recency: Days since last purchase
+   •	Frequency: Number of purchases
+   •	Monetary: Total amount spent
+   •	Customer Segments: Best Customers, Loyal Customers, At Risk, Lost Customers
+
+
+## Findings
+- **Total Sales by Region**: The highest sales were recorded in the West region.
+- **Total Profit by Product Category**: Technology products generated the highest profit.
+- **Average Discount by Customer Segment**: Corporate customers received the highest average discount.
+
+
