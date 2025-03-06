@@ -31,22 +31,21 @@ Steps
 
 #Description of process
 
-Data Cleaning
+- `Data Cleaning`:
    •	Fixed date format issues
    •	Removed duplicates
    •	Standardized text fields
    •	Handled NULL values
-Exploratory Data Analysis (EDA)
+- `Exploratory Data Analysis (EDA)`:
    •	Sales trends over time
    •	Top-selling products & categories
    •	Customer behavior & segmentation
    •	Shipping & delivery trends
-RFM Segmentation
+- `RFM Segmentation`:
    •	Recency: Days since last purchase
    •	Frequency: Number of purchases
    •	Monetary: Total amount spent
    •	Customer Segments: Best Customers, Loyal Customers, At Risk, Lost Customers
-
 
 ## Findings
 - **Total Sales by Region**: The highest sales were recorded in the West region.
