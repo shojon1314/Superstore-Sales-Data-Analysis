@@ -11,13 +11,14 @@ This project analyzes the Superstore Sales Dataset using SQL for data cleaning, 
 2. Data Cleaning Issues
 3. Exploratory Data Analysis (EDA)
 4. Customer Segmentation Using RFM
-5. Insights and Recommendations
 
 ## Tools and Technologies
 - MySQL
 - SQL
 
 ## Files
-  ## Files
-
-- `create_tables.sql`: 
+ 
+-`create_tables.sql`: Creates the database and tables.
+-`data_cleaning.sql`: Cleans and formats the data.
+-`exploratory_analysis.sql`: Runs EDA queries for insights.
+-`rfm_segmentation.sql`: Performs RFM segmentation.
