@@ -48,7 +48,7 @@ Steps
    •	Customer Segments: Best Customers, Loyal Customers, At Risk, Lost Customers
 
 ## Findings
-- **Total Sales by Region**: The highest sales were recorded in the West region.
+- **Total Sales by Region**: The West region recorded the highest sales.
 - **Total Profit by Product Category**: Technology products generated the highest profit.
 - **Average Discount by Customer Segment**: Corporate customers received the highest average discount.
 
